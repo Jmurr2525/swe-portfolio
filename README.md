@@ -1,4 +1,3 @@
-```markdown
 # React Portfolio Template for Software Engineers
 
 ## Overview
@@ -24,32 +23,14 @@ This is a modern, responsive portfolio template built with React, Tailwind CSS, 
 ### Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/react-portfolio-template.git
-   ```
 
-2. Navigate to the project directory:
-   ```
-   cd react-portfolio-template
-   ```
+2. Install dependencies
 
-3. Install dependencies:
-   ```
-   npm install
-   ```
-   or if you're using yarn:
-   ```
-   yarn install
-   ```
-
-4. Start the development server:
-   ```
+3. start the server
    npm start
-   ```
-   or with yarn:
-   ```
-   yarn start
-   ```
+
+It should be running on a local server http://localhost:3000'
+
 
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -65,15 +46,15 @@ This is a modern, responsive portfolio template built with React, Tailwind CSS, 
 1. Navigate to `src/components/ProjectDetails/projects/Projects.js`.
 2. Add a new project object to the `projectsData` array.
 3. Ensure each project has the following properties:
-   - `id`: A unique identifier for the project
-   - `title`: The name of your project
-   - `shortDescription`: A brief overview of the project
-   - `longDescription`: A detailed description of the project
-   - `image`: Path to the project's image (store images in the `public` folder)
-   - `technologies`: An array of technologies used in the project
-   - `features`: An array of key features (optional)
-   - `githubLink`: Link to the project's GitHub repository
-   - `liveDemo`: Link to a live demo of the project (if available)
+- `id`: A unique identifier for the project
+- `title`: The name of your project
+- `shortDescription`: A brief overview of the project
+- `longDescription`: A detailed description of the project
+- `image`: Path to the project's image (store images in the `public` folder)
+- `technologies`: An array of technologies used in the project
+- `features`: An array of key features (optional)
+- `githubLink`: Link to the project's GitHub repository
+- `liveDemo`: Link to a live demo of the project (if available)
 
 ### Customizing Styles
 
@@ -102,15 +83,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Feel free to reach out if you have any questions or need further customization tips!
-```
 
-This README provides a comprehensive guide for other software engineers who might want to use your portfolio template. It covers:
-
-1. An overview of the project
-2. Key features
-3. Installation and setup instructions
-4. Customization guidelines, including how to add projects and modify personal information
-5. Deployment hints
-6. Contribution invitation
-7. License information
-8. Acknowledgements of key technologies used
