@@ -1,6 +1,5 @@
 // src/components/ProjectDetails/Projects/UPark.js
 
-import UParkFlowChart from '../../UParkFlowChart';
 
 const UPark = {
   id: 'upark',
