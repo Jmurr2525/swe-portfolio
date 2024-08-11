@@ -39,11 +39,9 @@ function AboutMe() {
           </motion.h2>
           
           <motion.p variants={itemVariants} className="text-lg mb-6 text-gray-300">
-          I am a young software engineer passionate about leveraging technology to make our lives just a little bit easier.
-          As a recent Computer Science graduate from the University of Kansas, I've already accumulated a year of hands-on experience as a professional developer.
-          My approach combines fresh perspectives with a solid foundation in computer science principles. I thrive on versatility,
-          constantly expanding my skill set to become a 'swiss army knife' in the tech industry. Whether it's crafting efficient algorithms, designing intuitive user interfaces, or exploring cutting-edge technologies,
-          I'm driven by the potential to create innovative solutions that make a tangible difference in people's lives.
+          I am a young software engineer all about using cool tech to make my life just a little bit easier.
+          As a recent Computer Science graduate from the University of Kansas, I've already accumulated a year of hands-on experience as a professional developer. I thrive on versatility,
+          constantly expanding my skill set to become a 'swiss army knife' in the tech industry. 
           </motion.p>
           
           <motion.p variants={itemVariants} className="text-lg mb-6 text-gray-300">
