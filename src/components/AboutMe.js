@@ -45,7 +45,7 @@ function AboutMe() {
           </motion.p>
           
           <motion.p variants={itemVariants} className="text-lg mb-6 text-gray-300">
-          Outside of coding, I'm an avid outdoor enthusiast—hiking trails, scaling mountains, and enjoying nature.
+          Outside of coding, I am an avid outdoor enthusiast—hiking trails, scaling mountains, and enjoying nature.
            I also cherish quality time with friends and family, often over a home-cooked meal. Last but not least, I am a french fry enthusiast.
           </motion.p>
           
